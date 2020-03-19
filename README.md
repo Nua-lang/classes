@@ -8,6 +8,9 @@ You can use classes in Nua by adding it to your request list:
 Object = require "classic"
 ```
 
+After that you need to put the classic.nua file in your local project.
+
+
 Then you can start writing classes: look at this sample file(test.nua):
 
 ```
